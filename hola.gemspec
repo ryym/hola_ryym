@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'hola_ryym'
-  s.version     = '0.2.0'
+  s.version     = '0.2.1'
   s.executables << 'hola'
   s.date        = '2016-04-24'
   s.summary     = 'Hola!'
