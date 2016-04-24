@@ -3,6 +3,7 @@ class Hola::Translator
     @language = language
   end
 
+  # Say hello in the specified language.
   def hi
     case @language
     when :japanese
